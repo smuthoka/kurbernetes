@@ -1,2 +1,2 @@
-# kurbernetes
+# kubernetes
 Deployment of kubernetes
